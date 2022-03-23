@@ -2,21 +2,15 @@ header {
     background-color: #76B55B;
     height: 60px;
     margin: -8px;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
 }
 
 .header-logo {
-    color: #fff;
+    color: #fff;letter-spacing: normal;
     font-size: 25px;
     margin: 15px 25px;
+    text-align: left;
 }
 
-.header_img {
-    height: 25px;
-    margin: 15px 25px;
-}
 
 .main {
     height: 370px;
